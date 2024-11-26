@@ -74,6 +74,7 @@ int main()
 
                 // Imprimir los datos
                 wcout << L"Empleado #" << num_empleado << L": " << name << L" " << last_name << endl;
+
             }
         }
 
