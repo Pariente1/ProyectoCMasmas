@@ -1,0 +1,12 @@
+# Ignorar la carpeta de configuración de Visual Studio
+.vs/
+
+# Archivos de proyecto de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación y temporales
+bin/
+obj/
